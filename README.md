@@ -280,8 +280,8 @@ The `db.json` file contains the following sample data:
 ```json
 {
   "id": "1",
-  "studentId": 1,
-  "courseId": 1,
+  "studentId": "1",
+  "courseId": "1",
   "date": "2025-09-04"
 }
 ```

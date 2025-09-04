@@ -28,14 +28,14 @@
   "enrollments": [
     {
       "id": "1",
-      "studentId": 1,
-      "courseId": 1,
+      "studentId": "1",
+      "courseId": "1",
       "date": "2025-09-04"
     },
     {
       "id": "2",
-      "studentId": 2,
-      "courseId": 2,
+      "studentId": "2",
+      "courseId": "2",
       "date": "2025-09-04"
     }
   ]

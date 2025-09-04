@@ -1,7 +1,7 @@
 {
   "name": "proyecto-json-server",
   "version": "0.0.1",
-  "description": "Armaremos un pequeño servidor con información de cursos",
+  "description": "Backend simulado con json server para practicas de monorepo con NX",
   "main": "app.js",
   "scripts": {
     "start": "json-server --watch db.json"
